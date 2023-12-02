@@ -1,2 +1,4 @@
 Hi this is sample file
 hi ...
+
+Checking a jenkins-Github automatic build trigger
